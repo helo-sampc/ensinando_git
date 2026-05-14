@@ -1,4 +1,5 @@
 # Aula de git 2026
+
 Discente: Heloísa Sampaio Carvalho
 
 Instituição: Ilum Escola de Ciência, CNPEM.
@@ -6,3 +7,6 @@ Instituição: Ilum Escola de Ciência, CNPEM.
 Repositório para a aula de git da turma 26 da Ilum.
 
 Neste momento, o repositório está em construção e estamos atualizando o README.
+
+Vamos aprender a fazer um commit local.
+
